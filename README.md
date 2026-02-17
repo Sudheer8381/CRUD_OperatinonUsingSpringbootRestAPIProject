@@ -3,7 +3,7 @@ It demonstrates how to build RESTful APIs and perform database operations.
 
  <h3>Features</h3>
  
-Create new records
-Read all records / single record
-Update existing records
-Delete all record / single records
+Create new records </br>
+Read all records / single record</br>
+Update existing records</br>
+Delete all record / single records</br>
